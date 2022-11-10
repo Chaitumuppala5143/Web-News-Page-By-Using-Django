@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    border: 5px solid black;
+    background-color:grey;
+    color: black;
+
+}
+body{
+    background-color: blanchedalmond;
+}
+h2{
+    background-color: aquamarine;
+    width: 18%;
+    border: 5px solid yellowgreen;
+    width: 98%;
+    padding: 5px;
+
+}
+li{
+    padding: 2px;
+
+
+}
